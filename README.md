@@ -26,7 +26,7 @@ Welcome to **Learn Basic C#**, your starting point for mastering C# programming!
 # Clone this repository
 git clone https://github.com/DeveloperWilliams/Learn-Basic-C-Sharp.git
 
-# Navigate to the project directory
+# Navigate to the project directory.
 cd Learn-Basic-C-Sharp
 
 # Run a sample program
