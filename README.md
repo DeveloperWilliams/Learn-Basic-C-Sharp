@@ -1,7 +1,7 @@
 # Learn Basic C# - A Comprehensive Beginner's Guide �
 
 ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
-![.NET Core](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+
 
 Welcome to **Learn Basic C#**, your starting point for mastering C# programming! This repository contains code examples, exercises, and projects to help you learn C# from scratch.
 
