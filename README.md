@@ -33,6 +33,8 @@ cd Learn-Basic-C-Sharp
 cd (any project eg Hello)
 dotnet run
 
+```bash
+
 
 ## 📚 Course Content
 
