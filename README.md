@@ -34,7 +34,6 @@ cd (any project eg Hello)
 dotnet run
 
 ```
-```
 
 ## 📚 Course Content
 
